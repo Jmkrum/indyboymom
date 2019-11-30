@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Indy Boy Mom",
+    "description": "",
+    "home_page_url": "http://www.indyboymom.com",
+    "feed_url": "http://www.indyboymom.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michelle K"
+    },
+    "items": [
+        {
+            "id": "http://www.indyboymom.com/easy-flourless-brownies.html",
+            "url": "http://www.indyboymom.com/easy-flourless-brownies.html",
+            "title": "Easy Flourless Brownies",
+            "summary": "1 can black beans1 avocado1/3 cup coconut oil (melted)1 teaspoon baking soda½&hellip;",
+            "content_html": "<ul style=\"list-style-type: circle;\">\n<li>1 can black beans</li>\n<li>1 avocado</li>\n<li>1/3 cup coconut oil (melted)</li>\n<li>1 teaspoon baking soda</li>\n<li>½ teaspoon salt</li>\n<li>1/3 cup raw cacao powder (cocoa powder)</li>\n<li>2 eggs</li>\n<li>2 teaspoons vanilla extract</li>\n<li>¼-½ cup raw honey (more if you desire more sweetness)</li>\n<li>Optional: ¼ cup dark chocolate chips (Enjoy Life is allergy friendly)</li>\n</ul>\n<p>Directions</p>\n<p>Drain beans and blend beans, avocado and coconut oil then pour ingredients into a medium bowl. Add all other ingredients and mix. Bake at 350⁰ for 35 minutes in a 9x13” pan or bake 40 minutes in a 9x9 for thicker brownies.</p>\n<p> </p>\n<p><em>I know you may be hesitant to try the black beans and avocado in a brownie mix, right? I confess I was too, but these are a hit. This is my go to for an easy to make dessert so my allergy son can have a treat when we go to cookouts, birthday parties or the like. </em></p>\n<p><em>They have a deeper taste than your run of the mill brownie mix or even gluten free brownie mix. I have had a lot of compliments from people that they are still sweet, but a very nice subtle sweetness. These are allergy friendly for no gluten or dairy and the big bonus is my kids are getting fiber (beans) and good fat (avocado and coconut oil) without even knowing it! Mom win!</em></p>",
+            "author": {
+                "name": "Michelle K"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-30T16:19:37-05:00",
+            "date_modified": "2019-11-30T16:19:37-05:00"
+        }
+    ]
+}
